@@ -1,0 +1,9 @@
+F:\source\repos\C#\ExercicesWinforms\ValidationSaisies\bin\Debug\ValidationSaisies.exe.config
+F:\source\repos\C#\ExercicesWinforms\ValidationSaisies\bin\Debug\ValidationSaisies.exe
+F:\source\repos\C#\ExercicesWinforms\ValidationSaisies\bin\Debug\ValidationSaisies.pdb
+F:\source\repos\C#\ExercicesWinforms\ValidationSaisies\obj\Debug\ValidationSaisies.csprojAssemblyReference.cache
+F:\source\repos\C#\ExercicesWinforms\ValidationSaisies\obj\Debug\ValidationSaisies.Form1.resources
+F:\source\repos\C#\ExercicesWinforms\ValidationSaisies\obj\Debug\ValidationSaisies.csproj.GenerateResource.cache
+F:\source\repos\C#\ExercicesWinforms\ValidationSaisies\obj\Debug\ValidationSaisies.csproj.CoreCompileInputs.cache
+F:\source\repos\C#\ExercicesWinforms\ValidationSaisies\obj\Debug\ValidationSaisies.exe
+F:\source\repos\C#\ExercicesWinforms\ValidationSaisies\obj\Debug\ValidationSaisies.pdb

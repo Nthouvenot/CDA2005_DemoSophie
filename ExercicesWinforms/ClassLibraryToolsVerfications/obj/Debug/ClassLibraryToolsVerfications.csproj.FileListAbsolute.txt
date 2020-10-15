@@ -1,0 +1,6 @@
+F:\source\repos\C#\ExercicesWinforms\ClassLibraryToolsVerfications\bin\Debug\ClassLibraryToolsVerfications.dll
+F:\source\repos\C#\ExercicesWinforms\ClassLibraryToolsVerfications\bin\Debug\ClassLibraryToolsVerfications.pdb
+F:\source\repos\C#\ExercicesWinforms\ClassLibraryToolsVerfications\obj\Debug\ClassLibraryToolsVerfications.csprojAssemblyReference.cache
+F:\source\repos\C#\ExercicesWinforms\ClassLibraryToolsVerfications\obj\Debug\ClassLibraryToolsVerfications.csproj.CoreCompileInputs.cache
+F:\source\repos\C#\ExercicesWinforms\ClassLibraryToolsVerfications\obj\Debug\ClassLibraryToolsVerfications.dll
+F:\source\repos\C#\ExercicesWinforms\ClassLibraryToolsVerfications\obj\Debug\ClassLibraryToolsVerfications.pdb
